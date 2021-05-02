@@ -10,7 +10,7 @@
 # The File perf.txt should be created now
 # THE perf.txt FILE NEEDS TO BE CREATED AFTER EACH NEW SRM
 
-from flask import Flask, jsonify, make_response
+from flask import Flask, jsonify, make_response, render_template
 import requests
 from datetime import datetime, timedelta, timezone
 from math import sqrt, exp, inf,pi, log
@@ -224,7 +224,7 @@ def contestant_ratings():
     handles = get_registered_handles()
     for handle in handles:
         if handle not in rating_store:
-            sleep(0.1)
+            sleep(0.01)
             try:
                 j = get_user_stats(handle)
                 rating_store[handle] = {
@@ -351,14 +351,9 @@ def predictor(handle, extra):
             rating_store[i]["volatility"] = (int((sqrt((oldVolatility*oldVolatility) / (1+weight) + ((newrating-oldrating)*(newrating-oldrating))/ weight))))
         else:
             rating_store[i]["volatility"] = (int((FIRST_VOLATILITY)))
-        
-    response = make_response(
-                jsonify(
-                    rating_store
-                ),
-                200,
-            )
-    response.headers["Content-Type"] = "application/json"
+    
+    colnames = list(rating_store[handles[0]].keys())
+    response = render_template("pred.html", rating_store=rating_store, colnames=["handle"] + colnames)
     return response
 
 if __name__ == '__main__':

@@ -1,0 +1,19 @@
+<table border="1">
+    <thead>
+        <tr>
+            {% for col in colnames %}
+            <th>{{ col }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for key, value in rating_store.items() %}
+        <tr>
+            <td>{{ key }}</td>
+            {% for col in colnames[1:] %}
+            <td>{{ value[col] }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
