@@ -11,3 +11,9 @@
 - Go to arena.topcoder.com and login and click on any Room, eg. Room5
 - The File perf.txt should be created now
 - THE perf.txt FILE NEEDS TO BE CREATED AFTER EACH NEW SRM
+
+## Extra Features
+- You can check what your rating could have been if you performed better
+- or worse
+- Visit `http://127.0.0.1:5000/<handle>/<extra-points>`
+- Where `<handle>` is your handle in TC and `<extra-points>` is whatever extra points you want to give yourself
