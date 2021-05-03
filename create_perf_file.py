@@ -11,6 +11,7 @@ import json
 
 class SniffWebSocket:
     user_list = {}
+    reg_users = {}
     def __init__(self):
         pass
 
@@ -37,10 +38,17 @@ class SniffWebSocket:
         """
         for flow_msg in flow.messages:
             packet = flow_msg.content
-            # in future if needed to get registered user : RegisteredUsersResponse
-            # req -  '5:4+::{"name":"RegisterUsersRequest","args":[{"roundID":18645}]}'
+            if "RegisteredUsersResponse" in packet[:100]:
+                print("ZHINGALALA: %r " % packet)
+                j = json.loads(packet.split(":::")[1])
+                for arg in j["args"]:
+                    for i in arg["userListItems"]:
+                        self.reg_users[i["userName"]] = {}
+                with open("reg.txt", "w") as f:
+                    f.write(json.dumps(self.reg_users))
+ 
             if "ChallengeTable" in packet[:100]:
-                print(len(self.user_list), " - TODO: decode the packet here: %r..." % packet)
+                print(len(self.user_list), " - VOLA: decode the packet here: %r..." % packet)
                 j = json.loads(packet.split(":::")[1])
                 for arg in j["args"]:
                     for c in arg["coders"]:

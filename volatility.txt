@@ -1,261 +1,363 @@
-{"Burunduk2": {"volatility": 375.0, "tot": 166}}
-{"Sojisan": {"volatility": 313.0, "tot": 9}}
-{"FFFFFwl": {"volatility": 331.0, "tot": 4}}
-{"Yut176": {"volatility": 348.0, "tot": 47}}
-{"cpy1988": {"volatility": 514.0, "tot": 15}}
-{"naoya_t": {"volatility": 286.0, "tot": 122}}
-{"cz": {"volatility": 321.0, "tot": 15}}
-{"nevermore2002": {"volatility": 254.0, "tot": 6}}
-{"tanon710": {"volatility": 454.0, "tot": 19}}
-{"swift0vinay": {"volatility": 378.0, "tot": 3}}
-{"vkvatern": {"volatility": 402.0, "tot": 38}}
-{"Copernicium": {"volatility": 359.0, "tot": 85}}
-{"King_Rps": {"volatility": 418.0, "tot": 5}}
-{"manh9203": {"volatility": 385.0, "tot": 2}}
-{"xh286286": {"volatility": 328.0, "tot": 21}}
-{"Progenitor": {"volatility": 494.0, "tot": 38}}
-{"xieshanghang": {"volatility": 340.0, "tot": 4}}
-{"ybh": {"volatility": 360.0, "tot": 50}}
-{"sangonana": {"volatility": 306.0, "tot": 10}}
-{"kphmd": {"volatility": 330.0, "tot": 336}}
-{"praise_x": {"volatility": 340.0, "tot": 32}}
-{"heavenhunter": {"volatility": 278.0, "tot": 19}}
-{"pannu28": {"volatility": 285.0, "tot": 9}}
-{"mbabanov": {"volatility": 327.0, "tot": 3}}
-{"G1Joshi": {"volatility": 346.0, "tot": 4}}
-{"Humble_fool_007": {"volatility": 295.0, "tot": 7}}
-{"marat.snowbear": {"volatility": 522.0, "tot": 16}}
-{"Tsutajiro": {"volatility": 417.0, "tot": 43}}
-{"koyumeishi": {"volatility": 372.0, "tot": 130}}
-{"handojo1": {"volatility": 415.0, "tot": 136}}
-{"kk420": {"volatility": 250.0, "tot": 133}}
-{"decrypt.cp": {"volatility": 310.0, "tot": 19}}
-{"karmamarga": {"volatility": 219.0, "tot": 30}}
-{"toptantra": {"volatility": 273.0, "tot": 20}}
-{"hackerblack": {"volatility": 301.0, "tot": 4}}
-{"sin_ha_rsh": {"volatility": 331.0, "tot": 4}}
-{"venkatmalviyaa": {"volatility": 266.0, "tot": 15}}
-{"jaeger177012": {"volatility": 330.0, "tot": 4}}
-{"VictorSullivan": {"volatility": 295.0, "tot": 7}}
-{"_ala__": {"volatility": 348.0, "tot": 5}}
-{"frost_": {"volatility": 385.0, "tot": 2}}
-{"Chikasuberrrrry": {"volatility": 312.0, "tot": 3}}
-{"h_elloworl_d": {"volatility": 247.0, "tot": 9}}
-{"bgornik": {"volatility": 323.0, "tot": 5}}
-{"sogrub": {"volatility": 248.0, "tot": 6}}
-{"manavj07": {"volatility": 310.0, "tot": 12}}
-{"houxiang": {"volatility": 210.0, "tot": 44}}
-{"NobuMiu": {"volatility": 408.0, "tot": 230}}
-{"AndreaAndreoli": {"volatility": 240.0, "tot": 22}}
-{"mathneet": {"volatility": 201.0, "tot": 20}}
-{"siddharthabhi30": {"volatility": 220.0, "tot": 11}}
-{"Theodor": {"volatility": 255.0, "tot": 21}}
-{"mtzw9204": {"volatility": 361.0, "tot": 4}}
-{"UttamS.": {"volatility": 231.0, "tot": 14}}
-{"vekarpov00": {"volatility": 385.0, "tot": 2}}
-{"yuto1115": {"volatility": 350.0, "tot": 6}}
-{"demidenko": {"volatility": 304.0, "tot": 95}}
-{"limed": {"volatility": 277.0, "tot": 31}}
-{"tabae326": {"volatility": 305.0, "tot": 3}}
-{"kaszubki": {"volatility": 467.0, "tot": 33}}
-{"hp_Vardhan": {"volatility": 427.0, "tot": 14}}
-{"benmirt": {"volatility": 335.0, "tot": 7}}
-{"HITGLY": {"volatility": 489.0, "tot": 6}}
-{"suyash_87": {"volatility": 343.0, "tot": 8}}
-{"pulkitmittal63": {"volatility": 192.0, "tot": 8}}
-{"Abhi10": {"volatility": 360.0, "tot": 4}}
-{"cons1nil": {"volatility": 224.0, "tot": 306}}
-{"xsabi": {"volatility": 286.0, "tot": 40}}
-{"Kungeal": {"volatility": 109.0, "tot": 32}}
-{"coolms": {"volatility": 336.0, "tot": 5}}
-{"gevak": {"volatility": 330.0, "tot": 143}}
-{"KazukiMHoshino": {"volatility": 272.0, "tot": 36}}
-{"AvinashKartik": {"volatility": 254.0, "tot": 14}}
-{"viterbi": {"volatility": 235.0, "tot": 8}}
-{"vlamarca": {"volatility": 355.0, "tot": 15}}
-{"nocun": {"volatility": 226.0, "tot": 33}}
-{"AJ47": {"volatility": 327.0, "tot": 25}}
-{"swapnilr": {"volatility": 450.0, "tot": 20}}
-{"royappa": {"volatility": 244.0, "tot": 289}}
-{"igorjan94": {"volatility": 488.0, "tot": 16}}
-{"ranger2k": {"volatility": 285.0, "tot": 4}}
-{"adityaarya769": {"volatility": 385.0, "tot": 2}}
-{"ALAN_CF": {"volatility": 268.0, "tot": 5}}
-{"weastel": {"volatility": 385.0, "tot": 2}}
-{"xyk": {"volatility": 385.0, "tot": 2}}
-{"keymoon": {"volatility": 336.0, "tot": 38}}
-{"codehorces": {"volatility": 303.0, "tot": 3}}
-{"chasedeath": {"volatility": 343.0, "tot": 4}}
-{"pdwd": {"volatility": 376.0, "tot": 214}}
-{"arciu89": {"volatility": 234.0, "tot": 26}}
-{"sagar.topcoder": {"volatility": 205.0, "tot": 110}}
-{"Koushik_Sahu": {"volatility": 302.0, "tot": 5}}
-{"ali_butt": {"volatility": 357.0, "tot": 3}}
-{"ab_ohab": {"volatility": 341.0, "tot": 5}}
-{"thatprogrammer": {"volatility": 385.0, "tot": 2}}
-{"inov": {"volatility": 385.0, "tot": 3}}
-{"vele": {"volatility": 385.0, "tot": 2}}
-{"firiexp": {"volatility": 318.0, "tot": 31}}
-{"cchao": {"volatility": 365.0, "tot": 22}}
-{"NiC6200": {"volatility": 369.0, "tot": 22}}
-{"racsosabe": {"volatility": 730.0, "tot": 23}}
-{"gupta_samarth": {"volatility": 369.0, "tot": 25}}
-{"UTSAV_DEEP": {"volatility": 313.0, "tot": 86}}
-{"Abh1Shek": {"volatility": 353.0, "tot": 4}}
-{"Kanten-4205": {"volatility": 243.0, "tot": 16}}
-{"drifter_kabir": {"volatility": 301.0, "tot": 3}}
-{"changeemma": {"volatility": 238.0, "tot": 11}}
-{"yohohoho": {"volatility": 269.0, "tot": 14}}
-{"meirka5": {"volatility": 158.0, "tot": 23}}
-{"sharadsharma": {"volatility": 385.0, "tot": 3}}
-{"falanga": {"volatility": 468.0, "tot": 66}}
-{"torisasami_": {"volatility": 422.0, "tot": 5}}
-{"fugusuki": {"volatility": 208.0, "tot": 120}}
-{"all_too_well": {"volatility": 319.0, "tot": 7}}
-{"tretkowskitom": {"volatility": 304.0, "tot": 104}}
-{"CosmicWolf": {"volatility": 453.0, "tot": 7}}
-{"zzar": {"volatility": 210.0, "tot": 62}}
-{"ayush.varshney3": {"volatility": 390.0, "tot": 3}}
-{"lakshyaj21": {"volatility": 312.0, "tot": 10}}
-{"edtrist": {"volatility": 385.0, "tot": 2}}
-{"Rahul9999": {"volatility": 262.0, "tot": 7}}
-{"shsatc21": {"volatility": 253.0, "tot": 14}}
-{"b_richie": {"volatility": 232.0, "tot": 11}}
-{"ndmii": {"volatility": 385.0, "tot": 3}}
-{"Ilya_MSU": {"volatility": 276.0, "tot": 119}}
-{"nishank.suresh": {"volatility": 519.0, "tot": 26}}
-{"Jarlax": {"volatility": 401.0, "tot": 171}}
-{"nishantshah123": {"volatility": 502.0, "tot": 7}}
-{"yuanfei_1984": {"volatility": 224.0, "tot": 8}}
-{"vivek_ghosh": {"volatility": 194.0, "tot": 36}}
-{"alexis71": {"volatility": 258.0, "tot": 14}}
-{"ikr": {"volatility": 204.0, "tot": 16}}
-{"Ghassane_": {"volatility": 288.0, "tot": 7}}
-{"NOBORU2020": {"volatility": 341.0, "tot": 4}}
-{"dema.ivan": {"volatility": 351.0, "tot": 15}}
-{"yur3k": {"volatility": 385.0, "tot": 2}}
-{"atomicenergy": {"volatility": 472.0, "tot": 28}}
-{"zlfengyi1": {"volatility": 386.0, "tot": 75}}
-{"Nightmare05": {"volatility": 417.0, "tot": 15}}
-{"yatink2000": {"volatility": 294.0, "tot": 4}}
-{"Alphagocc": {"volatility": 318.0, "tot": 15}}
-{"numberfreak": {"volatility": 257.0, "tot": 4}}
-{"iino": {"volatility": 336.0, "tot": 163}}
-{"Nutsstache": {"volatility": 419.0, "tot": 3}}
-{"Yogeshkumarm": {"volatility": 167.0, "tot": 8}}
-{"waevrytime": {"volatility": 233.0, "tot": 11}}
-{"resh.root": {"volatility": 444.0, "tot": 38}}
-{"utkar5h_7": {"volatility": 233.0, "tot": 7}}
-{"rananjay23": {"volatility": 269.0, "tot": 13}}
-{"ma2TopCoder": {"volatility": 205.0, "tot": 11}}
-{"SpyCheese": {"volatility": 631.0, "tot": 17}}
-{"AntonyPopovich": {"volatility": 309.0, "tot": 64}}
-{"an0nym0use": {"volatility": 426.0, "tot": 3}}
-{"eugenesh": {"volatility": 479.0, "tot": 95}}
-{"Teddy.L": {"volatility": 326.0, "tot": 22}}
-{"shoryak": {"volatility": 383.0, "tot": 6}}
-{"CodenameGHOST": {"volatility": 407.0, "tot": 24}}
-{"MrUndercoverHD": {"volatility": 286.0, "tot": 6}}
-{"akshay_2": {"volatility": 247.0, "tot": 23}}
-{"LiquidFunk": {"volatility": 266.0, "tot": 74}}
-{"ZLATKO": {"volatility": 227.0, "tot": 313}}
-{"nww": {"volatility": 356.0, "tot": 3}}
-{"AnimeCannon": {"volatility": 280.0, "tot": 61}}
-{"LEON_KG": {"volatility": 275.0, "tot": 85}}
-{"0xC0def": {"volatility": 385.0, "tot": 2}}
-{"nya_nya_meow": {"volatility": 522.0, "tot": 56}}
-{"[BIT]silence": {"volatility": 275.0, "tot": 210}}
-{"BlahDuckling747": {"volatility": 484.0, "tot": 14}}
-{"PavelChadnov": {"volatility": 316.0, "tot": 145}}
-{"KTR": {"volatility": 283.0, "tot": 82}}
-{"karthik123": {"volatility": 317.0, "tot": 54}}
-{"shinigami11": {"volatility": 221.0, "tot": 12}}
-{"Lucina101": {"volatility": 406.0, "tot": 8}}
-{"shiro53": {"volatility": 272.0, "tot": 8}}
-{"sanindra": {"volatility": 236.0, "tot": 115}}
-{"CVT": {"volatility": 267.0, "tot": 87}}
-{"priyadeep": {"volatility": 178.0, "tot": 50}}
-{"ivanica": {"volatility": 338.0, "tot": 13}}
-{"malifold": {"volatility": 385.0, "tot": 2}}
-{"Jakube": {"volatility": 302.0, "tot": 26}}
-{"kolina": {"volatility": 359.0, "tot": 87}}
-{"1849285087": {"volatility": 311.0, "tot": 4}}
-{"sdcgvhgj": {"volatility": 339.0, "tot": 3}}
-{"trxbach": {"volatility": 416.0, "tot": 6}}
-{"metaljaguar": {"volatility": 406.0, "tot": 153}}
-{"sanyon": {"volatility": 230.0, "tot": 5}}
-{"Andreasyan": {"volatility": 506.0, "tot": 8}}
-{"SCL": {"volatility": 119.0, "tot": 198}}
-{"Silphire": {"volatility": 253.0, "tot": 96}}
-{"altyb.aypavpu": {"volatility": 378.0, "tot": 3}}
-{"fjardon": {"volatility": 384.0, "tot": 4}}
-{"DGuan64": {"volatility": 385.0, "tot": 2}}
-{"sugarrr": {"volatility": 377.0, "tot": 6}}
-{"Aguin": {"volatility": 305.0, "tot": 13}}
-{"snandi": {"volatility": 494.0, "tot": 6}}
-{"GOALBOY": {"volatility": 239.0, "tot": 7}}
-{"Atef": {"volatility": 197.0, "tot": 114}}
-{"dviorel88": {"volatility": 469.0, "tot": 3}}
-{"JP3BGY": {"volatility": 359.0, "tot": 34}}
-{"cmifyc": {"volatility": 459.0, "tot": 7}}
-{"lokeshgovindu": {"volatility": 253.0, "tot": 250}}
-{"wi7ard": {"volatility": 385.0, "tot": 2}}
-{"Srimaan1316": {"volatility": 350.0, "tot": 16}}
-{"fyind123": {"volatility": 385.0, "tot": 2}}
-{"anpoli99": {"volatility": 385.0, "tot": 2}}
-{"Bohdan_23": {"volatility": 400.0, "tot": 45}}
-{"Martynas": {"volatility": 166.0, "tot": 112}}
-{"jellc": {"volatility": 337.0, "tot": 14}}
-{"brainfxxk": {"volatility": 268.0, "tot": 16}}
-{"cjc_ick2": {"volatility": 273.0, "tot": 53}}
-{"linjoehan": {"volatility": 316.0, "tot": 17}}
-{"harsh639": {"volatility": 382.0, "tot": 3}}
-{"AK09": {"volatility": 218.0, "tot": 7}}
-{"confused_boi": {"volatility": 385.0, "tot": 2}}
-{"absee": {"volatility": 277.0, "tot": 8}}
-{"fujiyama": {"volatility": 148.0, "tot": 175}}
-{"pgFuge": {"volatility": 156.0, "tot": 17}}
-{"guanminren": {"volatility": 385.0, "tot": 2}}
-{"xs0": {"volatility": 295.0, "tot": 55}}
-{"_xiaodan": {"volatility": 471.0, "tot": 109}}
-{"GoogleHireMe": {"volatility": 334.0, "tot": 145}}
-{"otera1999": {"volatility": 393.0, "tot": 16}}
-{"dawsonkid": {"volatility": 401.0, "tot": 40}}
-{"Guendabiaani": {"volatility": 368.0, "tot": 9}}
-{"rath772k": {"volatility": 300.0, "tot": 7}}
-{"dmitrydyatlov": {"volatility": 416.0, "tot": 83}}
-{"sbin550": {"volatility": 237.0, "tot": 173}}
-{"sarvesh059": {"volatility": 348.0, "tot": 4}}
-{"karamu": {"volatility": 136.0, "tot": 74}}
-{"Tonefront": {"volatility": 353.0, "tot": 3}}
-{"jikan_": {"volatility": 353.0, "tot": 3}}
-{"got5ph1ne": {"volatility": 353.0, "tot": 3}}
-{"Oversight": {"volatility": 329.0, "tot": 3}}
-{"goagi": {"volatility": 289.0, "tot": 4}}
-{"K_lash96": {"volatility": 342.0, "tot": 22}}
-{"DDos": {"volatility": 275.0, "tot": 7}}
-{"-k": {"volatility": 323.0, "tot": 45}}
-{"Yamatan009": {"volatility": 323.0, "tot": 3}}
-{"{Ajit123}": {"volatility": 311.0, "tot": 3}}
-{"shiomusubi496": {"volatility": 482.0, "tot": 12}}
-{"okwedook": {"volatility": 409.0, "tot": 4}}
-{"agysejt": {"volatility": 237.0, "tot": 29}}
-{"debajyoti12": {"volatility": 255.0, "tot": 7}}
-{"Schullz": {"volatility": 315.0, "tot": 54}}
-{"al_gol": {"volatility": 310.0, "tot": 39}}
-{"roshogolla": {"volatility": 276.0, "tot": 10}}
-{"vaibhavsetiya": {"volatility": 258.0, "tot": 167}}
-{"vatsalsharma376": {"volatility": 314.0, "tot": 16}}
-{"cychien": {"volatility": 385.0, "tot": 2}}
-{"jiangly": {"volatility": 616.0, "tot": 4}}
-{"mochalka": {"volatility": 478.0, "tot": 47}}
-{"xiaodao": {"volatility": 388.0, "tot": 141}}
-{"youx": {"volatility": 260.0, "tot": 35}}
-{"szabar": {"volatility": 446.0, "tot": 28}}
-{"suzuken_w": {"volatility": 333.0, "tot": 10}}
-{"HeNeos": {"volatility": 426.0, "tot": 9}}
-{"luctivud": {"volatility": 302.0, "tot": 5}}
-{"TemZar": {"volatility": 259.0, "tot": 140}}
-{"jsourabh861": {"volatility": 443.0, "tot": 5}}
-{"mnabu55": {"volatility": 233.0, "tot": 15}}
-{"0Xero7": {"volatility": 385.0, "tot": 2}}
+{"Burunduk2": {"rating": 1754, "volatility": 375.0, "tot": 166}}
+{"Sojisan": {"rating": 1716, "volatility": 313.0, "tot": 9}}
+{"FFFFFwl": {"rating": 1498, "volatility": 331.0, "tot": 4}}
+{"Yut176": {"rating": 1354, "volatility": 348.0, "tot": 47}}
+{"cpy1988": {"rating": 1306, "volatility": 514.0, "tot": 15}}
+{"naoya_t": {"rating": 1383, "volatility": 286.0, "tot": 122}}
+{"cz": {"rating": 1290, "volatility": 321.0, "tot": 15}}
+{"nevermore2002": {"rating": 1239, "volatility": 254.0, "tot": 6}}
+{"tanon710": {"rating": 1278, "volatility": 454.0, "tot": 19}}
+{"swift0vinay": {"rating": 797, "volatility": 378.0, "tot": 3}}
+{"vkvatern": {"rating": 827, "volatility": 402.0, "tot": 38}}
+{"Copernicium": {"rating": 746, "volatility": 359.0, "tot": 85}}
+{"King_Rps": {"rating": 659, "volatility": 418.0, "tot": 5}}
+{"manh9203": {"rating": 1117, "volatility": 385.0, "tot": 2}}
+{"xh286286": {"rating": 1904, "volatility": 328.0, "tot": 21}}
+{"Progenitor": {"rating": 1851, "volatility": 494.0, "tot": 38}}
+{"xieshanghang": {"rating": 1825, "volatility": 340.0, "tot": 4}}
+{"ybh": {"rating": 1462, "volatility": 360.0, "tot": 50}}
+{"sangonana": {"rating": 1240, "volatility": 306.0, "tot": 10}}
+{"kphmd": {"rating": 1238, "volatility": 330.0, "tot": 336}}
+{"praise_x": {"rating": 1075, "volatility": 340.0, "tot": 32}}
+{"heavenhunter": {"rating": 1049, "volatility": 278.0, "tot": 19}}
+{"pannu28": {"rating": 808, "volatility": 285.0, "tot": 9}}
+{"mbabanov": {"rating": 976, "volatility": 327.0, "tot": 3}}
+{"G1Joshi": {"rating": 707, "volatility": 346.0, "tot": 4}}
+{"Humble_fool_007": {"rating": 475, "volatility": 295.0, "tot": 7}}
+{"marat.snowbear": {"rating": 2057, "volatility": 522.0, "tot": 16}}
+{"Tsutajiro": {"rating": 1744, "volatility": 417.0, "tot": 43}}
+{"koyumeishi": {"rating": 1719, "volatility": 372.0, "tot": 130}}
+{"handojo1": {"rating": 1633, "volatility": 415.0, "tot": 136}}
+{"kk420": {"rating": 1627, "volatility": 250.0, "tot": 133}}
+{"decrypt.cp": {"rating": 1323, "volatility": 310.0, "tot": 19}}
+{"karmamarga": {"rating": 1046, "volatility": 219.0, "tot": 30}}
+{"toptantra": {"rating": 995, "volatility": 273.0, "tot": 20}}
+{"hackerblack": {"rating": 887, "volatility": 301.0, "tot": 4}}
+{"sin_ha_rsh": {"rating": 875, "volatility": 331.0, "tot": 4}}
+{"venkatmalviyaa": {"rating": 624, "volatility": 266.0, "tot": 15}}
+{"jaeger177012": {"rating": 537, "volatility": 330.0, "tot": 4}}
+{"VictorSullivan": {"rating": 487, "volatility": 295.0, "tot": 7}}
+{"_ala__": {"rating": 1871, "volatility": 348.0, "tot": 5}}
+{"frost_": {"rating": 1571, "volatility": 385.0, "tot": 2}}
+{"Chikasuberrrrry": {"rating": 1460, "volatility": 312.0, "tot": 3}}
+{"h_elloworl_d": {"rating": 1432, "volatility": 247.0, "tot": 9}}
+{"bgornik": {"rating": 1402, "volatility": 323.0, "tot": 5}}
+{"sogrub": {"rating": 1388, "volatility": 248.0, "tot": 6}}
+{"manavj07": {"rating": 1360, "volatility": 310.0, "tot": 12}}
+{"houxiang": {"rating": 1320, "volatility": 210.0, "tot": 44}}
+{"NobuMiu": {"rating": 1423, "volatility": 408.0, "tot": 230}}
+{"AndreaAndreoli": {"rating": 1184, "volatility": 240.0, "tot": 22}}
+{"mathneet": {"rating": 969, "volatility": 201.0, "tot": 20}}
+{"siddharthabhi30": {"rating": 860, "volatility": 220.0, "tot": 11}}
+{"Theodor": {"rating": 755, "volatility": 255.0, "tot": 21}}
+{"mtzw9204": {"rating": 760, "volatility": 361.0, "tot": 4}}
+{"UttamS.": {"rating": 445, "volatility": 231.0, "tot": 14}}
+{"vekarpov00": {"rating": 1403, "volatility": 385.0, "tot": 2}}
+{"yuto1115": {"rating": 1810, "volatility": 350.0, "tot": 6}}
+{"demidenko": {"rating": 1865, "volatility": 304.0, "tot": 95}}
+{"limed": {"rating": 1674, "volatility": 277.0, "tot": 31}}
+{"tabae326": {"rating": 1602, "volatility": 305.0, "tot": 3}}
+{"kaszubki": {"rating": 1618, "volatility": 467.0, "tot": 33}}
+{"hp_Vardhan": {"rating": 1532, "volatility": 427.0, "tot": 14}}
+{"benmirt": {"rating": 1534, "volatility": 335.0, "tot": 7}}
+{"HITGLY": {"rating": 1465, "volatility": 489.0, "tot": 6}}
+{"suyash_87": {"rating": 1138, "volatility": 343.0, "tot": 8}}
+{"pulkitmittal63": {"rating": 1011, "volatility": 192.0, "tot": 8}}
+{"Abhi10": {"rating": 877, "volatility": 360.0, "tot": 4}}
+{"cons1nil": {"rating": 814, "volatility": 224.0, "tot": 306}}
+{"xsabi": {"rating": 581, "volatility": 286.0, "tot": 40}}
+{"Kungeal": {"rating": 595, "volatility": 109.0, "tot": 32}}
+{"coolms": {"rating": 457, "volatility": 336.0, "tot": 5}}
+{"gevak": {"rating": 2192, "volatility": 330.0, "tot": 143}}
+{"KazukiMHoshino": {"rating": 1846, "volatility": 272.0, "tot": 36}}
+{"AvinashKartik": {"rating": 1684, "volatility": 254.0, "tot": 14}}
+{"viterbi": {"rating": 1520, "volatility": 235.0, "tot": 8}}
+{"vlamarca": {"rating": 1452, "volatility": 355.0, "tot": 15}}
+{"nocun": {"rating": 1182, "volatility": 226.0, "tot": 33}}
+{"AJ47": {"rating": 1265, "volatility": 327.0, "tot": 25}}
+{"swapnilr": {"rating": 1128, "volatility": 450.0, "tot": 20}}
+{"royappa": {"rating": 1082, "volatility": 244.0, "tot": 289}}
+{"igorjan94": {"rating": 1086, "volatility": 488.0, "tot": 16}}
+{"ranger2k": {"rating": 990, "volatility": 285.0, "tot": 4}}
+{"adityaarya769": {"rating": 700, "volatility": 385.0, "tot": 2}}
+{"ALAN_CF": {"rating": 561, "volatility": 268.0, "tot": 5}}
+{"weastel": {"rating": 1100, "volatility": 385.0, "tot": 2}}
+{"xyk": {"rating": 1354, "volatility": 385.0, "tot": 2}}
+{"keymoon": {"rating": 1772, "volatility": 336.0, "tot": 38}}
+{"codehorces": {"rating": 1425, "volatility": 303.0, "tot": 3}}
+{"chasedeath": {"rating": 1576, "volatility": 343.0, "tot": 4}}
+{"pdwd": {"rating": 1439, "volatility": 376.0, "tot": 214}}
+{"arciu89": {"rating": 1148, "volatility": 234.0, "tot": 26}}
+{"sagar.topcoder": {"rating": 991, "volatility": 205.0, "tot": 110}}
+{"Koushik_Sahu": {"rating": 1014, "volatility": 302.0, "tot": 5}}
+{"ali_butt": {"rating": 723, "volatility": 357.0, "tot": 3}}
+{"ab_ohab": {"rating": 476, "volatility": 341.0, "tot": 5}}
+{"thatprogrammer": {"rating": 1358, "volatility": 385.0, "tot": 2}}
+{"inov": {"rating": 1611, "volatility": 385.0, "tot": 3}}
+{"vele": {"rating": 1061, "volatility": 385.0, "tot": 2}}
+{"firiexp": {"rating": 1818, "volatility": 318.0, "tot": 31}}
+{"cchao": {"rating": 1811, "volatility": 365.0, "tot": 22}}
+{"NiC6200": {"rating": 1541, "volatility": 369.0, "tot": 22}}
+{"racsosabe": {"rating": 1606, "volatility": 730.0, "tot": 23}}
+{"gupta_samarth": {"rating": 1466, "volatility": 369.0, "tot": 25}}
+{"UTSAV_DEEP": {"rating": 1154, "volatility": 313.0, "tot": 86}}
+{"Abh1Shek": {"rating": 898, "volatility": 353.0, "tot": 4}}
+{"Kanten-4205": {"rating": 1065, "volatility": 243.0, "tot": 16}}
+{"drifter_kabir": {"rating": 915, "volatility": 301.0, "tot": 3}}
+{"changeemma": {"rating": 890, "volatility": 238.0, "tot": 11}}
+{"yohohoho": {"rating": 496, "volatility": 269.0, "tot": 14}}
+{"meirka5": {"rating": 497, "volatility": 158.0, "tot": 23}}
+{"sharadsharma": {"rating": 1057, "volatility": 385.0, "tot": 3}}
+{"falanga": {"rating": 1774, "volatility": 468.0, "tot": 66}}
+{"torisasami_": {"rating": 1670, "volatility": 422.0, "tot": 5}}
+{"fugusuki": {"rating": 1453, "volatility": 208.0, "tot": 120}}
+{"all_too_well": {"rating": 1485, "volatility": 319.0, "tot": 7}}
+{"tretkowskitom": {"rating": 1298, "volatility": 304.0, "tot": 104}}
+{"CosmicWolf": {"rating": 1262, "volatility": 453.0, "tot": 7}}
+{"zzar": {"rating": 1231, "volatility": 210.0, "tot": 62}}
+{"ayush.varshney3": {"rating": 828, "volatility": 390.0, "tot": 3}}
+{"lakshyaj21": {"rating": 994, "volatility": 312.0, "tot": 10}}
+{"edtrist": {"rating": 873, "volatility": 385.0, "tot": 2}}
+{"Rahul9999": {"rating": 781, "volatility": 262.0, "tot": 7}}
+{"shsatc21": {"rating": 545, "volatility": 253.0, "tot": 14}}
+{"b_richie": {"rating": 283, "volatility": 232.0, "tot": 11}}
+{"ndmii": {"rating": 1700, "volatility": 385.0, "tot": 3}}
+{"Ilya_MSU": {"rating": 1973, "volatility": 276.0, "tot": 119}}
+{"nishank.suresh": {"rating": 1782, "volatility": 519.0, "tot": 26}}
+{"Jarlax": {"rating": 1567, "volatility": 401.0, "tot": 171}}
+{"nishantshah123": {"rating": 1639, "volatility": 502.0, "tot": 7}}
+{"yuanfei_1984": {"rating": 1121, "volatility": 224.0, "tot": 8}}
+{"vivek_ghosh": {"rating": 938, "volatility": 194.0, "tot": 36}}
+{"alexis71": {"rating": 937, "volatility": 258.0, "tot": 14}}
+{"ikr": {"rating": 841, "volatility": 204.0, "tot": 16}}
+{"Ghassane_": {"rating": 868, "volatility": 288.0, "tot": 7}}
+{"NOBORU2020": {"rating": 687, "volatility": 341.0, "tot": 4}}
+{"dema.ivan": {"rating": 689, "volatility": 351.0, "tot": 15}}
+{"yur3k": {"rating": 1528, "volatility": 385.0, "tot": 2}}
+{"atomicenergy": {"rating": 2057, "volatility": 472.0, "tot": 28}}
+{"zlfengyi1": {"rating": 1900, "volatility": 386.0, "tot": 75}}
+{"Nightmare05": {"rating": 1622, "volatility": 417.0, "tot": 15}}
+{"yatink2000": {"rating": 1457, "volatility": 294.0, "tot": 4}}
+{"Alphagocc": {"rating": 1480, "volatility": 318.0, "tot": 15}}
+{"numberfreak": {"rating": 1130, "volatility": 257.0, "tot": 4}}
+{"iino": {"rating": 1154, "volatility": 336.0, "tot": 163}}
+{"Nutsstache": {"rating": 900, "volatility": 419.0, "tot": 3}}
+{"Yogeshkumarm": {"rating": 1031, "volatility": 167.0, "tot": 8}}
+{"waevrytime": {"rating": 1004, "volatility": 233.0, "tot": 11}}
+{"resh.root": {"rating": 647, "volatility": 444.0, "tot": 38}}
+{"utkar5h_7": {"rating": 806, "volatility": 233.0, "tot": 7}}
+{"rananjay23": {"rating": 847, "volatility": 269.0, "tot": 13}}
+{"ma2TopCoder": {"rating": 757, "volatility": 205.0, "tot": 11}}
+{"SpyCheese": {"rating": 2736, "volatility": 631.0, "tot": 17}}
+{"AntonyPopovich": {"rating": 1832, "volatility": 309.0, "tot": 64}}
+{"an0nym0use": {"rating": 2089, "volatility": 426.0, "tot": 3}}
+{"eugenesh": {"rating": 1699, "volatility": 479.0, "tot": 95}}
+{"Teddy.L": {"rating": 1578, "volatility": 326.0, "tot": 22}}
+{"shoryak": {"rating": 1180, "volatility": 383.0, "tot": 6}}
+{"CodenameGHOST": {"rating": 1106, "volatility": 407.0, "tot": 24}}
+{"MrUndercoverHD": {"rating": 1062, "volatility": 286.0, "tot": 6}}
+{"akshay_2": {"rating": 1013, "volatility": 247.0, "tot": 23}}
+{"LiquidFunk": {"rating": 950, "volatility": 266.0, "tot": 74}}
+{"ZLATKO": {"rating": 825, "volatility": 227.0, "tot": 313}}
+{"nww": {"rating": 735, "volatility": 356.0, "tot": 3}}
+{"AnimeCannon": {"rating": 858, "volatility": 280.0, "tot": 61}}
+{"LEON_KG": {"rating": 675, "volatility": 275.0, "tot": 85}}
+{"0xC0def": {"rating": 1185, "volatility": 385.0, "tot": 2}}
+{"nya_nya_meow": {"rating": 1909, "volatility": 522.0, "tot": 56}}
+{"[BIT]silence": {"rating": 1688, "volatility": 275.0, "tot": 210}}
+{"BlahDuckling747": {"rating": 1636, "volatility": 484.0, "tot": 14}}
+{"PavelChadnov": {"rating": 1567, "volatility": 316.0, "tot": 145}}
+{"KTR": {"rating": 1374, "volatility": 283.0, "tot": 82}}
+{"karthik123": {"rating": 1335, "volatility": 317.0, "tot": 54}}
+{"shinigami11": {"rating": 1338, "volatility": 221.0, "tot": 12}}
+{"Lucina101": {"rating": 1335, "volatility": 406.0, "tot": 8}}
+{"shiro53": {"rating": 1178, "volatility": 272.0, "tot": 8}}
+{"sanindra": {"rating": 748, "volatility": 236.0, "tot": 115}}
+{"CVT": {"rating": 726, "volatility": 267.0, "tot": 87}}
+{"priyadeep": {"rating": 614, "volatility": 178.0, "tot": 50}}
+{"ivanica": {"rating": 658, "volatility": 338.0, "tot": 13}}
+{"malifold": {"rating": 1208, "volatility": 385.0, "tot": 2}}
+{"Jakube": {"rating": 1850, "volatility": 302.0, "tot": 26}}
+{"kolina": {"rating": 1758, "volatility": 359.0, "tot": 87}}
+{"1849285087": {"rating": 1811, "volatility": 311.0, "tot": 4}}
+{"sdcgvhgj": {"rating": 1869, "volatility": 339.0, "tot": 3}}
+{"trxbach": {"rating": 1766, "volatility": 416.0, "tot": 6}}
+{"metaljaguar": {"rating": 1457, "volatility": 406.0, "tot": 153}}
+{"sanyon": {"rating": 1397, "volatility": 230.0, "tot": 5}}
+{"Andreasyan": {"rating": 1455, "volatility": 506.0, "tot": 8}}
+{"SCL": {"rating": 1178, "volatility": 119.0, "tot": 198}}
+{"Silphire": {"rating": 1065, "volatility": 253.0, "tot": 96}}
+{"altyb.aypavpu": {"rating": 795, "volatility": 378.0, "tot": 3}}
+{"fjardon": {"rating": 1061, "volatility": 384.0, "tot": 4}}
+{"DGuan64": {"rating": 1086, "volatility": 385.0, "tot": 2}}
+{"sugarrr": {"rating": 1699, "volatility": 377.0, "tot": 6}}
+{"Aguin": {"rating": 1520, "volatility": 305.0, "tot": 13}}
+{"snandi": {"rating": 1397, "volatility": 494.0, "tot": 6}}
+{"GOALBOY": {"rating": 1373, "volatility": 239.0, "tot": 7}}
+{"Atef": {"rating": 1321, "volatility": 197.0, "tot": 114}}
+{"dviorel88": {"rating": 1012, "volatility": 469.0, "tot": 3}}
+{"JP3BGY": {"rating": 1258, "volatility": 359.0, "tot": 34}}
+{"cmifyc": {"rating": 1206, "volatility": 459.0, "tot": 7}}
+{"lokeshgovindu": {"rating": 932, "volatility": 253.0, "tot": 250}}
+{"wi7ard": {"rating": 949, "volatility": 385.0, "tot": 2}}
+{"Srimaan1316": {"rating": 660, "volatility": 350.0, "tot": 16}}
+{"fyind123": {"rating": 1171, "volatility": 385.0, "tot": 2}}
+{"anpoli99": {"rating": 1312, "volatility": 385.0, "tot": 2}}
+{"Bohdan_23": {"rating": 2002, "volatility": 400.0, "tot": 45}}
+{"Martynas": {"rating": 1888, "volatility": 166.0, "tot": 112}}
+{"jellc": {"rating": 1711, "volatility": 337.0, "tot": 14}}
+{"brainfxxk": {"rating": 1353, "volatility": 268.0, "tot": 16}}
+{"cjc_ick2": {"rating": 1331, "volatility": 273.0, "tot": 53}}
+{"linjoehan": {"rating": 1300, "volatility": 316.0, "tot": 17}}
+{"harsh639": {"rating": 1497, "volatility": 382.0, "tot": 3}}
+{"AK09": {"rating": 1160, "volatility": 218.0, "tot": 7}}
+{"confused_boi": {"rating": 873, "volatility": 385.0, "tot": 2}}
+{"absee": {"rating": 747, "volatility": 277.0, "tot": 8}}
+{"fujiyama": {"rating": 649, "volatility": 148.0, "tot": 175}}
+{"pgFuge": {"rating": 498, "volatility": 156.0, "tot": 17}}
+{"guanminren": {"rating": 1799, "volatility": 385.0, "tot": 2}}
+{"xs0": {"rating": 1684, "volatility": 295.0, "tot": 55}}
+{"_xiaodan": {"rating": 1569, "volatility": 471.0, "tot": 109}}
+{"GoogleHireMe": {"rating": 1653, "volatility": 334.0, "tot": 145}}
+{"otera1999": {"rating": 1632, "volatility": 393.0, "tot": 16}}
+{"dawsonkid": {"rating": 1567, "volatility": 401.0, "tot": 40}}
+{"Guendabiaani": {"rating": 1379, "volatility": 368.0, "tot": 9}}
+{"rath772k": {"rating": 1313, "volatility": 300.0, "tot": 7}}
+{"dmitrydyatlov": {"rating": 1153, "volatility": 416.0, "tot": 83}}
+{"sbin550": {"rating": 1141, "volatility": 237.0, "tot": 173}}
+{"sarvesh059": {"rating": 876, "volatility": 348.0, "tot": 4}}
+{"karamu": {"rating": 933, "volatility": 136.0, "tot": 74}}
+{"Tonefront": {"rating": 725, "volatility": 353.0, "tot": 3}}
+{"jikan_": {"rating": 725, "volatility": 353.0, "tot": 3}}
+{"got5ph1ne": {"rating": 725, "volatility": 353.0, "tot": 3}}
+{"Oversight": {"rating": 641, "volatility": 329.0, "tot": 3}}
+{"goagi": {"rating": 662, "volatility": 289.0, "tot": 4}}
+{"K_lash96": {"rating": 114, "volatility": 342.0, "tot": 22}}
+{"DDos": {"rating": 1592, "volatility": 275.0, "tot": 7}}
+{"-k": {"rating": 1682, "volatility": 323.0, "tot": 45}}
+{"Yamatan009": {"rating": 1531, "volatility": 323.0, "tot": 3}}
+{"{Ajit123}": {"rating": 1603, "volatility": 311.0, "tot": 3}}
+{"shiomusubi496": {"rating": 1597, "volatility": 482.0, "tot": 12}}
+{"okwedook": {"rating": 1644, "volatility": 409.0, "tot": 4}}
+{"agysejt": {"rating": 1292, "volatility": 237.0, "tot": 29}}
+{"debajyoti12": {"rating": 1205, "volatility": 255.0, "tot": 7}}
+{"Schullz": {"rating": 1191, "volatility": 315.0, "tot": 54}}
+{"al_gol": {"rating": 964, "volatility": 310.0, "tot": 39}}
+{"roshogolla": {"rating": 876, "volatility": 276.0, "tot": 10}}
+{"vaibhavsetiya": {"rating": 531, "volatility": 258.0, "tot": 167}}
+{"vatsalsharma376": {"rating": 607, "volatility": 314.0, "tot": 16}}
+{"cychien": {"rating": 1549, "volatility": 385.0, "tot": 2}}
+{"jiangly": {"rating": 2521, "volatility": 616.0, "tot": 4}}
+{"mochalka": {"rating": 1994, "volatility": 478.0, "tot": 47}}
+{"xiaodao": {"rating": 1792, "volatility": 388.0, "tot": 141}}
+{"youx": {"rating": 1354, "volatility": 260.0, "tot": 35}}
+{"szabar": {"rating": 1323, "volatility": 446.0, "tot": 28}}
+{"suzuken_w": {"rating": 1332, "volatility": 333.0, "tot": 10}}
+{"HeNeos": {"rating": 1103, "volatility": 426.0, "tot": 9}}
+{"luctivud": {"rating": 1107, "volatility": 302.0, "tot": 5}}
+{"TemZar": {"rating": 828, "volatility": 259.0, "tot": 140}}
+{"jsourabh861": {"rating": 638, "volatility": 443.0, "tot": 5}}
+{"mnabu55": {"rating": 595, "volatility": 233.0, "tot": 15}}
+{"0Xero7": {"rating": 1093, "volatility": 385.0, "tot": 2}}
+{"balajihl": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"daidao": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"srikarplus": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Techiah": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"tienthanhnt123": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"raylin": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"kiranmsv": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"ykd007": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Subarna578": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"tharun.k": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"CuteBugLikeCode": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Bharath005": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"jazzantonio": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"professorchen": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"kbg_1910": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"mvuld": {"rating": 0, "volatility": 385.0, "tot": 2}}
+{"pavansai_08": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"trishmohi": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"smlazne": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"salmaan.k33": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"greherrera": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"Hogroad": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"akleff1": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"prabum07": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"shubhamjais1999": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"KailaaSri": {"rating": 0, "volatility": 385.0, "tot": 2}}
+{"nav_matta": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"pawar_hrithik": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"born_hacker": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"vivek_tc": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"DannyBoy-3310": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Tanbin_Hasan10": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"mitul_99": {"rating": 878, "volatility": 385.0, "tot": 3}}
+{"Kellamity": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"Jeff476": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Gilqamesh": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"apumaparna": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Atur8": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"sethhritik": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"ajarihant7": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"shivangtiwari": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"kd2508": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"km4sh": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Onifo": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"NoahZhao": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"shivani_2001": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Garg_15_": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Akash_1996": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"nambiar_nithin": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"shikhar.kaushik": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"manila1": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"ZewStream947": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"siddhantdugar": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"khiljii": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"iWenn": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"a_nil_yadav": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"aps88966": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"abhi_abhi44": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"x_walker_x": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"saranyaart": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"NerellaTejaswi": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"manjunath.m84": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"dexmax": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"jeet4779": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Luis319": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"DariuszMic": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"preet2712": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"glober": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"nir20": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"tinsupate": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"mharishchowdary": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"dumbdot": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"qiancy": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"Barry18": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"jsoooo": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"shoadevs": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"kiraashado": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"Kushagraw12": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"diptirekha1993": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Yagnik_Shingala": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"ajitesh_20": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"kumarraveet52": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"kardileshantanu": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"spider09": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"asharoff": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"rigel_tal": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"akshayu383": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"meadri17": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"bestial": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"thealoe23": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"matheusdiogenes": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"anand_sy": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"samuelmariyan": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"Banfy": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"rahulsinghbisht": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"Bahubali7781": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Kushagra_S": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"suryarajsingh": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"OTarek15": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"mjsjoberg": {"rating": 878, "volatility": 385.0, "tot": 2}}
+{"uma.priya1": {"rating": 0, "volatility": 385.0, "tot": 1}}
+{"Bojidar06": {"rating": 878, "volatility": 385.0, "tot": 2}}

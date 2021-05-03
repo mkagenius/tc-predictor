@@ -116,7 +116,7 @@ def refine(x, d):
     return x
 
 score = {}
-def get_registered_handles():
+def get_perf_handles():
     lst = []
     with open("perf.txt", "r") as f:
         lines = f.readlines()
@@ -125,10 +125,21 @@ def get_registered_handles():
             line = line.strip()
             j = json.loads(line)
             for k in j:
-                if j[k]["score"] == 0 and j[k]["rating"] == 0:
-                    continue
+                # if j[k]["score"] == 0 and j[k]["rating"] == 0:
+                #     continue
                 score[k] = {"score" : j[k]["score"] ,
                             "rating":  j[k]["rating"] }
+                lst.append(k)
+    return lst
+def get_reg_handles():
+    lst = []
+    with open("reg.txt", "r") as f:
+        lines = f.readlines()
+        
+        for line in lines:
+            line = line.strip()
+            j = json.loads(line)
+            for k in j:
                 lst.append(k)
     return lst
     
@@ -198,14 +209,16 @@ def next_contest():
 rating_store = {}
 
 def get_user_stats(handle):
-    with open("volatility.txt", "r+") as f:
+    with open("volatility.txt", "a+") as f:
+        pass
+    with open("volatility.txt", "r") as f:
         lines = f.readlines()
         for line in lines:
             line = line.strip()
             j = json.loads(line)
             if handle in j:
                 print(f"Returing from file for {handle} ")
-                return {"volatility": j[handle]["volatility"], "tot": j[handle]["tot"]}
+                return {"rating":j[handle]["rating"], "volatility": j[handle]["volatility"], "tot": j[handle]["tot"]}
 
     print(f"Fetching: {handle}")
     resp = requests.get(f"https://api.topcoder.com/v3/members/{handle}/stats")
@@ -214,25 +227,34 @@ def get_user_stats(handle):
     if "id" not in j:
         return {}
     else:
+        if j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["volatility"] == 0:
+            j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["volatility"] = FIRST_VOLATILITY
         with open("volatility.txt", "a") as f:
-            f.write(json.dumps({handle: {"volatility":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["volatility"], "tot":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["challenges"]+1}}))
+            f.write(json.dumps({handle: {"rating": j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["rating"], "volatility":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["volatility"], "tot":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["challenges"]+1}}))
             f.write("\n")
-        return {"volatility":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["volatility"], "tot":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["challenges"]+1}
+        return {"rating": j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["rating"], "volatility":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["rank"]["volatility"], "tot":j["result"]["content"][0]["DATA_SCIENCE"]["SRM"]["challenges"]+1}
 
-@app.route("/contestant-ratings")
-def contestant_ratings():
-    handles = get_registered_handles()
+@app.route("/contestant-ratings/<before>")
+def contestant_ratings(before):
+    if before == "before":
+        handles = get_perf_handles()
+    else:
+        handles = get_reg_handles()
     for handle in handles:
-        if handle not in rating_store:
+        if handle not in rating_store or "score" not in rating_store[handle]:
             sleep(0.01)
             try:
                 j = get_user_stats(handle)
-                rating_store[handle] = {
-                    "rating": score[handle]["rating"],
-                    "volatility": j["volatility"],
-                    "score": score[handle]["score"],
-                    "tot": j["tot"],
-                    }
+                if handle not in rating_store:
+                    rating_store[handle] = {
+                        "rating": j["rating"],
+                        "volatility": j["volatility"],
+                        "tot": j["tot"],
+                        }
+
+                if handle in score and before != "before":
+                    rating_store[handle]["score"] = score[handle]["score"]
+
             except:
                 rating_store[handle] = {"rating":1200, "volatility": 900, "score": score[handle]["score"], "tot": 1}
 
@@ -245,12 +267,11 @@ def contestant_ratings():
     response.headers["Content-Type"] = "application/json"
     return response
 
-@app.route("/predictor/<handle>/<extra>")
-def predictor(handle, extra):
-    _ = contestant_ratings()
-
-    if handle in rating_store:
-        rating_store[handle]["score"] += int(extra)
+@app.route("/predictor/<handle>/<extra>/<before>")
+def predictor(handle, extra, before):
+    
+    _ = contestant_ratings(before)
+    
     # ave rating
     rave = 0
     for k in rating_store:
@@ -282,10 +303,26 @@ def predictor(handle, extra):
         rating_store[k]["exp_perf"] = -normsinv((est - .5) / num)
 
 
+    
+    
     # actual perf
     
 
     handles = list(rating_store.keys())
+    # EARLY RETURN IF SCORES NOT AVAILABLE ie MATCH STILL ON
+    
+
+    
+
+    if before == "before":
+        colnames = list(rating_store[handles[0]].keys())
+        response = render_template("pred.html", rating_store=rating_store, colnames=["handle"] + colnames)
+        return response
+
+    # Modify score according to path params
+    if handle in rating_store:
+        rating_store[handle]["score"] += int(extra)
+
     n = len(handles)
     i = 0
     done_cnt = 0
