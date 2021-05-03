@@ -15,5 +15,10 @@
 ## Extra Features
 - You can check what your rating could have been if you performed better
 - or worse
-- Visit `http://127.0.0.1:5000/<handle>/<extra-points>`
+- Visit `http://127.0.0.1:5000/predictor/<handle>/<extra-points>/now`
 - Where `<handle>` is your handle in TC and `<extra-points>` is whatever extra points you want to give yourself
+
+## More Features
+- You can check your expected rank before contest
+- if you do better than your expected rank, you should receive postive ratings
+- Visit `http://127.0.0.1:5000/predictor/good/0/before`
